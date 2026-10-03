@@ -9,3 +9,14 @@
 
 --dictonary : {'key': "value",'key1' : 'value1',....,'key n': 'value n'}
 
+# Python: str(), repr(), and print()
+
+## 1. str()
+
+`str()` converts an object into a human-readable string.
+
+```python
+x = "Hello\nWorld"
+
+print(str(x))
+

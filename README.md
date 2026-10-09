@@ -1,2 +1,2 @@
 # spicy-python
-Learning from the scratch. :)
+Learning from the scratch. :):)

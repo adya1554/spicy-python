@@ -20,3 +20,5 @@ x = "Hello\nWorld"
 
 print(str(x))
 
+
+DATATYPES OF PYTHON -----------

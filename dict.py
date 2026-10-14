@@ -8,9 +8,9 @@ print(a)
 print
 
 
-# only keys from the dict---------
-# for i in a.keys():
-    # print("keys are :",i)
+only keys from the dict---------
+for i in a.keys():
+    print("keys are :",i)
 
     #only values from the dict -------------------
 # for i in a.values():

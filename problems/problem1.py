@@ -9,6 +9,5 @@ elif age < 60:
     print("adult")
 else:
     print("senior")
-
-# print("python ")
+print("python ")
 

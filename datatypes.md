@@ -22,3 +22,4 @@ print(str(x))
 
 
 DATATYPES OF PYTHON -----------
+numbers

@@ -1,4 +1,4 @@
-# problem 1 
+# problem 1 simple example 
 # age group categarization under 13-18 - teen,19-59 = adult, 60=< senior
 
 age = int(input("entr age : "))
